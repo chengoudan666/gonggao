@@ -16,7 +16,7 @@
 <pubDate>Sat, 08 Aug 2026 05:43:03 +0000</pubDate>
 </item>
 <item>
-<title>目前正处于测试阶段，欢迎反馈问题</title>
+<title>狗蛋测试服</title>
 <link>
 <![CDATA[ https://4399.com ]]>
 </link>
